@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: easy_search\n"
+"POT-Creation-Date: 2016-06-14 10:51+0200\n"
+"PO-Revision-Date: 2016-06-14 10:56+0200\n"
+"Last-Translator: \n"
+"Language-Team: hermann zossou <prohermannzossou91@gmail.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: admin\n"
+"X-Poedit-SearchPath-1: public\n"
+"X-Poedit-SearchPath-2: includes\n"
+"X-Poedit-SearchPath-3: woo_ev_easy_search.php\n"
+"X-Poedit-SearchPath-4: r_woo_ev_utils.php\n"
+
+#: admin/class-r_wev_search-admin.php:122
+msgid "All public view"
+msgstr "Toute la vue du public"
+
+#: admin/class-r_wev_search-admin.php:123
+msgid "Get Started"
+msgstr "Commencer"
+
+#: admin/class-r_wev_search-admin.php:124
+msgid "Settings"
+msgstr "Paramètres"
+
+#: admin/class-r_wev_search-admin.php:166
+msgid "Header:"
+msgstr "Entête:"
+
+#: admin/class-r_wev_search-admin.php:170 admin/class-r_wev_search-admin.php:180
+msgid "Define color"
+msgstr "Définir la couleur"
+
+#: admin/class-r_wev_search-admin.php:176
+msgid "Footer:"
+msgstr "Bas de page:"
+
+#: admin/class-r_wev_search-admin.php:186
+msgid "Border"
+msgstr "Frontière"
+
+#: admin/class-r_wev_search-admin.php:187
+msgid "Define header/footer color"
+msgstr "Définir en-tête / pied de page couleur"
+
+#: admin/class-r_wev_search-admin.php:192
+msgid "Body"
+msgstr "Corps"
+
+#: admin/class-r_wev_search-admin.php:196
+msgid "Customize table."
+msgstr "Personnaliser table."
+
+#: admin/class-r_wev_search-admin.php:205
+msgid " Step"
+msgstr "Pas"
+
+#: admin/class-r_wev_search-admin.php:210
+msgid "Body color by step."
+msgstr "La couleur du corps par pas"
+
+#: admin/class-r_wev_search-admin.php:215 admin/class-r_wev_search-admin.php:256
+msgid "Color1"
+msgstr "Couleur 1"
+
+#: admin/class-r_wev_search-admin.php:218
+msgid "Color for first step"
+msgstr "Couleur pour le premier pas"
+
+#: admin/class-r_wev_search-admin.php:224 admin/class-r_wev_search-admin.php:265
+msgid "Color2"
+msgstr "couleur 2"
+
+#: admin/class-r_wev_search-admin.php:229
+msgid "Color for second step"
+msgstr "Couleur pour le deuxième pas"
+
+#: admin/class-r_wev_search-admin.php:234
+msgid "Color by Step"
+msgstr "Couleur par étape"
+
+#: admin/class-r_wev_search-admin.php:235
+msgid "Define color for body table"
+msgstr "Définir la couleur pour le contenu de la table "
+
+#: admin/class-r_wev_search-admin.php:241
+msgid "Intervals"
+msgstr "intervalles"
+
+#: admin/class-r_wev_search-admin.php:245
+msgid "Type of intervals."
+msgstr "Type d'intervalles."
+
+#: admin/class-r_wev_search-admin.php:250
+msgid "Number"
+msgstr "Nombre"
+
+#: admin/class-r_wev_search-admin.php:261
+msgid "Color for first intervals"
+msgstr "Couleur pour les premiers intervalles"
+
+#: admin/class-r_wev_search-admin.php:270
+msgid "Color for second intervals"
+msgstr "Couleur pour les secondes intervalles"
+
+#: admin/class-r_wev_search-admin.php:274
+msgid "Color by Intervals"
+msgstr "Couleur par Intervalles"
+
+#: admin/class-r_wev_search-admin.php:275
+msgid "Define color for body table following number for product view"
+msgstr ""
+"Définir la couleur pour la table du corps numéro suivant pour les paramètres "
+"de produit viewSearch"
+
+#: includes/class-woo_ev_easy_search-define.php:72
+msgid "Search settings"
+msgstr "Paramètres de recherche"
+
+#: includes/class-woo_ev_easy_search-define.php:90
+msgid "Rules groups relationship"
+msgstr "Relation des groupes de règles"
+
+#: includes/class-woo_ev_easy_search-define.php:93
+msgid ""
+"AND: All groups rules must be considered to have the search action applied."
+msgstr ""
+"ET: Tous les groupes règles doivent être considérées comme ayant l'action de "
+"recherche appliquée."
+
+#: includes/class-woo_ev_easy_search-define.php:93
+msgid ""
+"OR: AT least one group rules must be verified to have the search action "
+"applied."
+msgstr ""
+"OU: au moins une des règles de groupe doivent être vérifiées pour avoir "
+"l'action de recherche appliquée."
+
+#: includes/class-woo_ev_easy_search-define.php:102
+msgid "Rules"
+msgstr "Règles"
+
+#: includes/class-woo_ev_easy_search-define.php:103
+msgid ""
+"Allows you to define which rules should be checked in order to apply the "
+"search."
+msgstr ""
+"Vous permet de définir les règles doivent être vérifiés afin d'appliquer la "
+"recherche."
+
+#: includes/class-woo_ev_easy_search-define.php:110
+msgid "Start date"
+msgstr "Date de début"
+
+#: includes/class-woo_ev_easy_search-define.php:114
+msgid ""
+"Date from which the search view is applied.<br>Format: <strong>YYYY-MM-DD</"
+"strong>."
+msgstr ""
+"Date à partir de laquelle la vue de recherche est appliqué de la Format:. "
+"<Strong> AAAA-MM-JJ </ strong>."
+
+#: includes/class-woo_ev_easy_search-define.php:119
+msgid "End date"
+msgstr "Date de fin"
+
+#: includes/class-woo_ev_easy_search-define.php:123
+msgid "Date when the search view ends.<br>Format: <strong>YYYY-MM-DD</strong>."
+msgstr ""
+"Date à laquelle la vue de recherche se termine par la Format:. <Strong> AAAA-"
+"MM-JJ </ strong>."
+
+#: includes/class-woo_ev_easy_search-define.php:127
+msgid "Title of view"
+msgstr "Titre de vue"
+
+#: includes/class-woo_ev_easy_search-define.php:131
+msgid ""
+"Make a short description of view list.<br/><strong><i>This description must "
+"be fetching</i></strong>"
+msgstr ""
+"Faire une courte description de vue liste. <br/> <Strong> <i> Cette "
+"description doit être aller chercher </ i> </ strong>"
+
+#: includes/class-woo_ev_easy_search-define.php:205
+msgid "Start Date"
+msgstr "Date de début"
+
+#: includes/class-woo_ev_easy_search-define.php:206
+msgid "End Date"
+msgstr "Date de fin"
+
+#: includes/class-woo_ev_easy_search-define.php:207
+msgid "Active"
+msgstr "actif"
+
+#: includes/class-woo_ev_easy_search-define.php:334
+msgid "Items name"
+msgstr "Articles nom"
+
+#: includes/class-woo_ev_easy_search-define.php:335
+msgid "Filter by taxonomies(Categories,Tags,Attributes)"
+msgstr "Filtrer par taxonomies (Catégories, Tags, attributs)"
+
+#: includes/class-woo_ev_easy_search-define.php:336
+msgid "Product ID"
+msgstr "ID du produit"
+
+#: includes/class-woo_ev_easy_search-define.php:337
+msgid "If Order items count"
+msgstr "Si les articles Commander compte"
+
+#: includes/class-woo_ev_easy_search-define.php:338
+msgid "Retrieves only the elements created by the specified authors"
+msgstr "Récupère uniquement les éléments créés par les auteurs spécifiés"
+
+#: includes/class-woo_ev_easy_search-define.php:339
+msgid "If Customer role"
+msgstr "Si le rôle de client"
+
+#: includes/class-woo_ev_easy_search-define.php:340
+msgid "If Customer"
+msgstr "Si le client"
+
+#: includes/class-woo_ev_easy_search-define.php:341
+msgid "If Customer subscribed to Mailchimp list"
+msgstr "Si le client a souscrit à la liste Mailchimp"
+
+#: includes/class-woo_ev_easy_search-define.php:342
+msgid "If Customer subscribed to a Sendinblue list"
+msgstr "Si le client a souscrit à une liste Sendinblue"
+
+#: includes/class-woo_ev_easy_search-define.php:343
+msgid "If Customer subscribed to a NewsletterPlugin list"
+msgstr "Si le client a souscrit à une liste de NewsletterPlugin"
+
+#: includes/class-woo_ev_easy_search-define.php:344
+msgid "If Customer is following an affiliation link"
+msgstr "Si le client suit un lien d'affiliation"
+
+#: includes/class-woo_ev_easy_search-define.php:346
+msgid "If Customer is following us on Facebook"
+msgstr "Si le client nous suit sur Facebook"
+
+#: includes/class-woo_ev_easy_search-define.php:347
+msgid "If Payment gateway"
+msgstr "Si la passerelle de paiement"
+
+#: includes/class-woo_ev_easy_search-define.php:348
+msgid "If Shipping country"
+msgstr "si le pays d'expédition"
+
+#: includes/class-woo_ev_easy_search-define.php:349
+msgid "If Customer belongs to specified groups"
+msgstr "Si le client appartient à des groupes spécifiques"
+
+#: includes/class-woo_ev_easy_search-define.php:379
+msgid "and"
+msgstr "et"
+
+#: includes/class-woo_ev_easy_search-define.php:405
+msgid "is less than"
+msgstr "est inférieur à"
+
+#: includes/class-woo_ev_easy_search-define.php:406
+msgid "is less or equal to"
+msgstr "est inférieur ou égal à"
+
+#: includes/class-woo_ev_easy_search-define.php:407
+msgid "equals"
+msgstr "équivaut à"
+
+#: includes/class-woo_ev_easy_search-define.php:408
+msgid "is more than"
+msgstr "est plus que"
+
+#: includes/class-woo_ev_easy_search-define.php:409
+msgid "is more or equal to"
+msgstr "est supérieur ou égal à"
+
+#: includes/class-woo_ev_easy_search-define.php:410
+msgid "is a multiple of"
+msgstr "est un multiple de"
+
+#: includes/r_woo_ev_utils.php:456 r_woo_ev_utils.php:456
+msgid "Add"
+msgstr "Ajouter"

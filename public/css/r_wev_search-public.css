@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ .visibility::before{
+    content:'\f177';
+    font:400 20px/1 dashicons;
+}
+.view::before {
+    content:'\f177';
+    font:400 20px/1 dashicons;
+}
